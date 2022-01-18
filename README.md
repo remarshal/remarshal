@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @remarshal
-- 👀 I’m interested in learning to code better
-- 🌱 I’m currently learning Bootstrap
-- 💞️ I’m looking to collaborate on class projects
-- 📫 Find me on Slack
+- 👋 Hi, I'm Marshal (he/him/his)
+- 👀 I'm passionate about coding responsive websites
+- 💞️ I'm currently learning Full-Stack Web & Mobile Developement
+- 🌱 HTML, CSS, JavaScript, Bootstrap, React, React Native, NodeJS
+- 📫 Find me on Slack @remarshal
 
 <!---
 remarshal/remarshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
