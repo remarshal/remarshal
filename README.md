@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Marshal (he/him/his)
 - 👀 I'm passionate about coding responsive websites
-- 💞️ I'm currently learning Full-Stack Web & Mobile Developement
+- 💞️ I'm currently learning MERN Full-Stack Web & Mobile Developement
 - 🌱 HTML, CSS, JavaScript, Bootstrap, React, React Native, NodeJS
 - 📫 Find me on Slack @remarshal
 
