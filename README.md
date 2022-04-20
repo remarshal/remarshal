@@ -4,7 +4,7 @@
 - 🔥 HTML | CSS | JavaScript 
 - 💻 Bootstrap, React, React Native, NodeJS
 - 📫 Find me on Instagram @marshal.rocks
-- 💻 https://www.marshal.rocks
+- 💻 https://marshal.rocks
 
 <!---
 remarshal/remarshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
