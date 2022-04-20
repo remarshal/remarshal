@@ -1,9 +1,10 @@
 - 👋 Hi, I'm Marshal (he/him/his)
 - ✨ I'm passionate about coding responsive websites
-- 💞️ MERN Full-Stack Web & Mobile Developement
+- 💞️ Front-End Developer
 - 🔥 HTML | CSS | JavaScript 
 - 💻 Bootstrap, React, React Native, NodeJS
-- 📫 Find me on Slack @remarshal
+- 📫 Find me on Instagram @marshal.rocks
+- 💻 https://www.marshal.rocks
 
 <!---
 remarshal/remarshal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
