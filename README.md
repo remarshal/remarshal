@@ -2,7 +2,7 @@
 - ✨ I'm passionate about coding responsive websites
 - 💞️ Front-End Developer
 - 🔥 HTML | CSS | JavaScript 
-- 💻 Bootstrap, React, React Native, NodeJS
+- 💻 React, React Native, NodeJS
 - 📫 Find me on Instagram @marshal.rocks
 - 💻 https://marshal.rocks
 
