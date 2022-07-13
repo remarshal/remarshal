@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Marshal (he/him/his)
 - ✨ I'm passionate about coding responsive websites
 - 💞️ Front-End Developer
-- 🔥 HTML | CSS | JavaScript 
+- 🔥 HTML | CSS | JavaScript | Node
 - 💻 React, React Native, NodeJS
 - 📫 Find me on Instagram @marshal.rocks
 - 💻 https://marshal.rocks
