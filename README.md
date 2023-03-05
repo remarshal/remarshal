@@ -1,9 +1,8 @@
 - 👋 Hi, I'm Marshal (he/him/his)
-- ✨ I'm passionate about coding responsive websites
-- 🚀 Studied at NuCamp 
-- 🧑‍💻 Application Development at Accenture
-- 🔥 HTML | CSS | JavaScript | Node
-- 💻 React, React Native, NodeJS
+- ✨ I'm passionate about learning new technologies
+- 🧑‍💻 Application Developer at Accenture
+- 🔥 Oracle | SQL | Cloud (OCI & AWS)
+- 💻 JavaScript, React, NodeJS, MongoDB
 - 📫 Find me on Instagram @marshal.rocks
 - 💻 https://marshal.rocks
 
