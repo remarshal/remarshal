@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Marshal (he/him/his)
 - ✨ I'm passionate about learning new technologies
-- 🧑‍💻 Application Developer at Accenture
-- 🔥 Oracle | SQL | Cloud (OCI & AWS)
+- 🧑‍💻 Business Architecture Senior Analyst at Accenture
+- 🔥 Workday | R2R | FDM
 - 💻 JavaScript, React, NodeJS, MongoDB
 - 📫 Find me on Instagram @marshal.rocks
 - 💻 https://marshal.rocks
